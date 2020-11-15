@@ -3,4 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+My name is Aditya. I am currently working for Zomato as a Software Developer.
+
+###### Technologies I have worked on
+- Kotlin, Java (Android Development)
+- PHP, Java (Backend Development) 
+- Database Management (MySQL and equivalent)
+
+###### Education
+- BTech in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad
+
+###### Hobbies and Interests
+- Playing football and badminton
+- Watching tennis and basketball
+- Love watching tech talks, productivity and random videos on YouTube
