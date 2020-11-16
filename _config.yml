@@ -1,6 +1,6 @@
 title: Aditya Vikram Sinha
 repository: adityasinha-personal/adityasinha-personal.github.io
-description: >- # this means to ignore newlines until "baseurl:" This is what will come in ggole search etc as the description
+description: >- # this means to ignore newlines until "baseurl:" This is what will come in google search meta etc as the description. TODO Remember to add this
   
 search: false
 masthead_title: "Home" #To override title being set as masthead title
