@@ -8,7 +8,7 @@ My name is Aditya. I am currently working for Zomato as a Software Developer.
 ###### Technologies I have worked on
 - Kotlin, Java (Android Development)
 - PHP, Java (Backend Development) 
-- Database Management (MySQL and equivalent)
+- MySQL and equivalent (Database Management)
 
 ###### Education
 - BTech in Electronics and Communication Engineering from Indian Institute of Information Technology, Allahabad
