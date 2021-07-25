@@ -15,5 +15,5 @@ My name is Aditya. I am currently working for Zomato as a Software Developer.
 
 ###### Hobbies and Interests
 - Playing football and badminton
-- Watching tennis and basketball
+- Watching tennis
 - Love watching tech talks, productivity and random videos on YouTube
