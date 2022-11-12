@@ -12,8 +12,6 @@ Github , AWS account(free tier would do)
 An app with source code present on Github has two libraries “liba” and “libb”. Lets say we want these two libraries to be pushed to S3 with appropriate dependancies. The dependancy structure looks something like this:
 > App -> liba -> libb  
 
-[Source code](https://github.com/adityasinha-personal/codeBuildTestApp)
-
 #### Solution
 ###### Step 1
 Open AWS CodePipeline and create a new pipeline.
